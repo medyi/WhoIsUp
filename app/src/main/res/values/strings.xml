@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WhoIsUp</string>
+
+    <string-array name="upforwhat_list">
+        <item>Empty/Not Selected</item>
+        <item>Friendship</item>
+        <item>Gaming</item>
+        <item>Watch2gether</item>
+        <item>Lets Drink</item>
+    </string-array>
+
+    <string-array name="upforwhat_filter_list">
+        <item>All</item>
+        <item>Friendship</item>
+        <item>Gaming</item>
+        <item>Watch2gether</item>
+        <item>Lets Drink</item>
+    </string-array>
+</resources>
